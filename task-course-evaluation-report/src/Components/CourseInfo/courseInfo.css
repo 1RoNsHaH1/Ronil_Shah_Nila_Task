@@ -1,0 +1,26 @@
+.border{
+    margin: 20px;
+    width: 195px;
+}
+
+.courseInfo {
+    width: 195px;
+    padding: 10px;
+    p {
+        border-bottom: inset;
+    }
+}
+
+.credits {
+    display: grid;
+}
+
+.courseOutcomes {
+    span {
+        margin: 5px;
+    }
+}
+
+.badge {
+    margin: 5px;
+}
