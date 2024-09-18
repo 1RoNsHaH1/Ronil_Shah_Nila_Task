@@ -27,7 +27,7 @@ const AttendanceChart = ({ attendance }: AttendanceChartProps) => {
 
   return (
     <div>
-      <p><strong>Attendance Over Time</strong></p>
+      <p><strong>Student's Attendance</strong></p>
       
       <LineChart width={500} height={250} data={attendanceData}>
         <CartesianGrid strokeDasharray="3 3" />
